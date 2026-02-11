@@ -1,0 +1,11 @@
+Philips semiconductors is a great worldwide company that produce electornics aroung the globe. I have gone through the datasheet of 1N4148 diode and here's whatI have to say in response to the assignment:
+
+1. Forward voltage at a specified current: I noticed the that maximum voltage is 1 v when it's at 10 mA. It's good to mention here that ther's another diode version called 1N4448 which gives max 1 with no min curent at a condition of 100 mA. It also has a 0.72 max voltage and min 0.62 at the cindition of 5 mA currect flow.
+
+Maximum reverse voltage: The reverse voltage is max 75 v
+
+Maximum forward current: is 450 mA
+
+Operating temperature range: the junction temp is max 200 celsius. (storing between -65 & +200)
+
+One real application where this diode is used: It's used for a general appliactions and high-speed switching, however it's also used in TVs, radios and computers and it is Used in diode logic or simple digital circuits.
